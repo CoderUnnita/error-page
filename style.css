@@ -4,7 +4,11 @@
 }
 
 body{
-    background-color: rgb(83, 186, 255);
+    color: line;
+}
+
+img{
+    filter: drop-shadow(10px 4px 1px #8b8989);
 }
 .ab{
     text-align: center;
